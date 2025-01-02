@@ -12,6 +12,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omin23/Leetcode-stugg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
+| [2350-find-closest-number-to-zero](https://github.com/omin23/Leetcode-stugg/tree/master/2350-find-closest-number-to-zero) |
 ## Binary Search
 |  |
 | ------- |
