@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omin23/Leetcode-stugg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/omin23/Leetcode-stugg/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0015-3sum](https://github.com/omin23/Leetcode-stugg/tree/master/0015-3sum) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
+| [1894-merge-strings-alternately](https://github.com/omin23/Leetcode-stugg/tree/master/1894-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
