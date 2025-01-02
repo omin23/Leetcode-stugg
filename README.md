@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/omin23/Leetcode-stugg/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/omin23/Leetcode-stugg/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omin23/Leetcode-stugg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/omin23/Leetcode-stugg/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
 ## Greedy
 |  |
 | ------- |
