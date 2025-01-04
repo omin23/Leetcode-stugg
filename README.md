@@ -49,6 +49,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/omin23/Leetcode-stugg/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/omin23/Leetcode-stugg/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/omin23/Leetcode-stugg/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0015-3sum](https://github.com/omin23/Leetcode-stugg/tree/master/0015-3sum) |
+| [0344-reverse-string](https://github.com/omin23/Leetcode-stugg/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/omin23/Leetcode-stugg/tree/master/1894-merge-strings-alternately) |
