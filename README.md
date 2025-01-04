@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/omin23/Leetcode-stugg/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/omin23/Leetcode-stugg/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/omin23/Leetcode-stugg/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omin23/Leetcode-stugg/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -33,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omin23/Leetcode-stugg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/omin23/Leetcode-stugg/tree/master/0013-roman-to-integer) |
+| [0036-valid-sudoku](https://github.com/omin23/Leetcode-stugg/tree/master/0036-valid-sudoku) |
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
@@ -63,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/omin23/Leetcode-stugg/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 ## Two Pointers
