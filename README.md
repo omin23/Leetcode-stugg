@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 | [2350-find-closest-number-to-zero](https://github.com/omin23/Leetcode-stugg/tree/master/2350-find-closest-number-to-zero) |
 ## Binary Search
 |  |
@@ -31,10 +32,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/omin23/Leetcode-stugg/tree/master/0278-first-bad-version) |
+| [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -72,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omin23/Leetcode-stugg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Depth-First Search
 |  |
 | ------- |
