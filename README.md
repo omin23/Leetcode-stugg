@@ -79,10 +79,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 ## Matrix
 |  |
@@ -153,4 +155,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/omin23/Leetcode-stugg/tree/master/0278-first-bad-version) |
+## Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
 <!---LeetCode Topics End-->
