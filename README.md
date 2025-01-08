@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/omin23/Leetcode-stugg/tree/master/0078-subsets) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omin23/Leetcode-stugg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omin23/Leetcode-stugg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -220,4 +221,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/omin23/Leetcode-stugg/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/omin23/Leetcode-stugg/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
