@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omin23/Leetcode-stugg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omin23/Leetcode-stugg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
@@ -122,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/omin23/Leetcode-stugg/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/omin23/Leetcode-stugg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
+| [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
@@ -197,5 +199,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
 | [1127-last-stone-weight](https://github.com/omin23/Leetcode-stugg/tree/master/1127-last-stone-weight) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
