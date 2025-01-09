@@ -94,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
+| [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0112-path-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
+| [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
 | ------- |
@@ -234,4 +236,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omin23/Leetcode-stugg/tree/master/0078-subsets) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
+## Graph
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
