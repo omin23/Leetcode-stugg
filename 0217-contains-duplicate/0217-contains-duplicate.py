@@ -1,8 +1,13 @@
-class Solution:
-    def containsDuplicate(self, a: List[int]) -> bool:
-        map = {}
-        for i,n in enumerate(a):
-            if n in map:
-                return True
-            map[n] = i
-        return False
+class Solution(object):
+    def containsDuplicate(self, nums):
+        """
+        :type nums: List[int]
+        :rtype: bool
+        """
+        lib = set()
+        for i in nums: 
+            if i in lib: 
+                return True 
+            else: 
+                lib.add(i)
+        return False 
