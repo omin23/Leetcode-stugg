@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/omin23/Leetcode-stugg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/omin23/Leetcode-stugg/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0036-valid-sudoku](https://github.com/omin23/Leetcode-stugg/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/omin23/Leetcode-stugg/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/omin23/Leetcode-stugg/tree/master/0141-linked-list-cycle) |
+| [0217-contains-duplicate](https://github.com/omin23/Leetcode-stugg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
@@ -131,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/omin23/Leetcode-stugg/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/omin23/Leetcode-stugg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
