@@ -4,10 +4,6 @@ class Solution(object):
         :type nums: List[int]
         :rtype: bool
         """
-        lib = set()
-        for i in nums: 
-            if i in lib: 
-                return True 
-            else: 
-                lib.add(i)
+        if len(nums) != len(set(nums)):
+            return True
         return False 
