@@ -7,6 +7,9 @@ class Solution(object):
         :type t: str
         :rtype: bool
         """
+        if len(s) != len(t):
+            return False
+            
         if Counter(s) == Counter(t):
             return True
         return False 
