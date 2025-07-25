@@ -1,16 +1,13 @@
+from collections import defaultdict
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        count = {}
-        f = [[] for i in range(len(nums)+1)]
-        for n in nums:
-            count[n] = 1 + count.get(n,0)
-        for n,c in count.items():
-            f[c].append(n)
-            
-        res = []
-        for i in range(len(f)-1,0,-1):
-            for n in f[i]:
-                res.append(n)
-                if(len(res) == k):
-                    return res;
-	
+        # mapper = Defaultdict(int)
+        mapper = {}
+        for i in nums: 
+            mapper[i] = mapper.get(i,0) + 1
+        
+        new = (sorted(mapper.items(),key=lambda mappe: mappe[1], reverse =True))
+        res = [x[0] for x in new][:k]
+        return res
+
+
