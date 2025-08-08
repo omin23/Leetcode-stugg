@@ -5,13 +5,11 @@ class Solution:
         max_length = 0 
         while l < r:
             max_length_curr = (r-l) * min(height[r],height[l])
+            max_length = max(max_length_curr,max_length)
             if height[r] > height[l]:
                 l += 1
             else:
                 r -= 1
-            # print((l,r),(height[l],height[r]),max_length_curr)
-            max_length = max(max_length_curr,max_length)
-        
         return max_length
             
             
