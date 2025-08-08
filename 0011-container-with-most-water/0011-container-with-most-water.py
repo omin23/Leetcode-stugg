@@ -7,8 +7,6 @@ class Solution:
             max_length_curr = (r-l) * min(height[r],height[l])
             if height[r] > height[l]:
                 l += 1
-            elif height[r] < height[l]:
-                r -= 1 
             else:
                 r -= 1
             # print((l,r),(height[l],height[r]),max_length_curr)
