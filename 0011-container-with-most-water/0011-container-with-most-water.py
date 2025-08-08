@@ -11,7 +11,7 @@ class Solution:
                 r -= 1 
             else:
                 r -= 1
-            print((l,r),(height[l],height[r]),max_length_curr)
+            # print((l,r),(height[l],height[r]),max_length_curr)
             max_length = max(max_length_curr,max_length)
         
         return max_length
