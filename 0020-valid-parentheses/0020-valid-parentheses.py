@@ -1,15 +1,25 @@
 class Solution:
     def isValid(self, s: str) -> bool:
-        stack = []
-        cto = {')':'(','}':'{',']':'['}
-        
+
+        close_dict = {
+            "}":"{",
+            "]":"[",
+            ")":"("
+        }
+
+        storage = []
+
         for i in s:
-            if i in cto:
-                if stack and cto[i] == stack[-1]:
-                    stack.pop()
-                else:
+            if i in close_dict.keys():
+                if not storage: 
                     return False
-            else: 
-                stack.append(i)
-        return not stack 
+                if close_dict[i] == storage[-1]:
+                    storage.pop()
+                else: 
+                    return False
+            else:
+                storage.append(i)
         
+        if storage:
+            return False
+        return True 
