@@ -9,7 +9,8 @@ class Solution:
                 curmax = prices[p2] - prices[p1]
                 if curmax > maxp:
                     maxp = curmax
-            elif prices[p1] > prices[p2]:
+            # elif prices[p1] > prices[p2]:
+            else:
                 p1 = p2
         
         return maxp
