@@ -3,7 +3,7 @@ class Solution:
         maxp = 0 
         p1,p2 = 0,1
         maxl = len(prices)
-        while p2 != maxl:
+        while p2 < maxl:
             if prices[p1] < prices[p2]:
                 maxp = max(maxp , prices[p2] - prices[p1])
             else:
