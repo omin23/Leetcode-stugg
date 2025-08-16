@@ -23,7 +23,6 @@ class Solution:
 
         d = (ll + rl) 
         if d > maxd[0]:
-            print(node.val,d)
             maxd[0] = d
 
         return 1 + max(ll,rl) 
