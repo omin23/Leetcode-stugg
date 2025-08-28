@@ -1,14 +1,11 @@
 from collections import defaultdict
 class Solution:
     def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
-        word_mapper = defaultdict(list)
-        res = []
-        
+        word_dict = defaultdict(list)
         for i in strs:
-            word_mapper[tuple(sorted(i))].append(i)
-        for i in word_mapper.values():
-            res.append(i)
-
+            new = tuple(sorted(i))
+            word_dict[new].append(i)
+        res = list(word_dict.values())
         return res
 
 
