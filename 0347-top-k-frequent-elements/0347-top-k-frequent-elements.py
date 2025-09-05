@@ -1,13 +1,10 @@
-from collections import defaultdict
+from collections import Counter
+# import heapq
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        # mapper = Defaultdict(int)
-        mapper = {}
-        for i in nums: 
-            mapper[i] = mapper.get(i,0) + 1
-        
-        new = (sorted(mapper.items(),key=lambda mappe: mappe[1], reverse =True))
-        res = [x[0] for x in new][:k]
-        return res
+       freqk = Counter(nums)
+       items = sorted(freqk.items(), key = lambda x: x[1],reverse=True)
+       return [items[i][0] for i in range(k)]
+
 
 
