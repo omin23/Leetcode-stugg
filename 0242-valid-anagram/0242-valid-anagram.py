@@ -1,16 +1,9 @@
 from collections import Counter
-
-class Solution(object):
-    def isAnagram(self, s, t):
-        """
-        :type s: str
-        :type t: str
-        :rtype: bool
-        """
+class Solution:
+    def isAnagram(self, s: str, t: str) -> bool:
         if len(s) != len(t):
-            return False
-            
-        if Counter(s) == Counter(t):
-            return True
-        return False 
-        
+            return False 
+        scounter = Counter(s)
+        tcounter = Counter(t)
+        return scounter == tcounter
+
