@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/omin23/Leetcode-stugg/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/omin23/Leetcode-stugg/tree/master/0036-valid-sudoku) |
 | [0039-combination-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0039-combination-sum) |
+| [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/omin23/Leetcode-stugg/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/omin23/Leetcode-stugg/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omin23/Leetcode-stugg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
@@ -119,6 +121,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/omin23/Leetcode-stugg/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/omin23/Leetcode-stugg/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/omin23/Leetcode-stugg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/omin23/Leetcode-stugg/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -162,6 +165,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/omin23/Leetcode-stugg/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omin23/Leetcode-stugg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
@@ -254,4 +258,8 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
