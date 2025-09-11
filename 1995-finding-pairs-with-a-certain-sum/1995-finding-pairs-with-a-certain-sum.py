@@ -25,8 +25,7 @@ class FindSumPairs:
         for i in usearr:
             l2maybe = tot-i
             if l2maybe in self.l2set.keys(): ret += len(self.l2set[l2maybe])
-        
-        # print(ret)
+
         return ret
 
 
