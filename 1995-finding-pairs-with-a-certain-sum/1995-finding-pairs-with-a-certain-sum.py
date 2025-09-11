@@ -1,30 +1,27 @@
-from collections import defaultdict 
+from collections import Counter 
 
 class FindSumPairs:
     def __init__(self, nums1: List[int], nums2: List[int]):
         self.l1 = nums1
         self.l2 = nums2
-        self.l2set = defaultdict(list)
-        for i in enumerate(nums2):
-            pos,val = i 
-            self.l2set[val].append(pos)
-        
+        self.l1set = Counter(nums1)
+        self.l2set = Counter(nums2)        
 
 
     def add(self, index: int, val: int) -> None:
         old = self.l2[index]
         self.l2[index] += val
-        self.l2set[old].remove(index)
-        self.l2set[self.l2[index]].append(index)
+        self.l2set[old] -= 1
+        self.l2set[self.l2[index]] += 1
 
 
 
     def count(self, tot: int) -> int:
         ret = 0 
-        usearr = self.l1
-        for i in usearr:
-            l2maybe = tot-i
-            if l2maybe in self.l2set.keys(): ret += len(self.l2set[l2maybe])
+        for i in self.l1set.items():
+            val , it = i 
+            l2maybe = tot-val
+            if l2maybe in self.l2set.keys(): ret += it * self.l2set[l2maybe]
 
         return ret
 
