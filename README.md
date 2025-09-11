@@ -30,6 +30,7 @@
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/omin23/Leetcode-stugg/tree/master/1127-last-stone-weight) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2350-find-closest-number-to-zero](https://github.com/omin23/Leetcode-stugg/tree/master/2350-find-closest-number-to-zero) |
 ## Binary Search
 |  |
@@ -66,6 +67,7 @@
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## String
 |  |
 | ------- |
@@ -263,6 +265,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
