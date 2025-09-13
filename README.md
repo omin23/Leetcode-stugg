@@ -101,6 +101,7 @@
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -111,6 +112,7 @@
 | [0112-path-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -203,6 +205,7 @@
 | [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0774-maximum-depth-of-n-ary-tree) |
 ## Binary Tree
 |  |
 | ------- |
