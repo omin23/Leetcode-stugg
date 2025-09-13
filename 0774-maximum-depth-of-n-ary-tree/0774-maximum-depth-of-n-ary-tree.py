@@ -12,7 +12,6 @@ class Solution:
         maxval = [1]
 
         def moddfs(curval,root):
-            print(root.children)
             for i in root.children:
                 moddfs(curval+1,i)
                 maxval[0] = max(curval+1,maxval[0])
