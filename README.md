@@ -28,6 +28,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/omin23/Leetcode-stugg/tree/master/0792-binary-search) |
+| [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/omin23/Leetcode-stugg/tree/master/1127-last-stone-weight) |
@@ -187,6 +188,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/omin23/Leetcode-stugg/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/omin23/Leetcode-stugg/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/omin23/Leetcode-stugg/tree/master/0206-reverse-linked-list) |
+| [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 ## Recursion
 |  |
 | ------- |
@@ -271,9 +273,14 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
+| [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
+## Queue
+|  |
+| ------- |
+| [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 <!---LeetCode Topics End-->
