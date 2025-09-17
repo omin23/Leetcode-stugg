@@ -13,9 +13,10 @@ class Solution:
             else:
                 maxi = max(maxi,len(seen))
                 while s[r] in seen:
-                    print(r,l)
+                    # print(r,l)
                     seen.remove(s[l])
                     l +=1
+
         maxi = max(maxi,len(seen))
         return maxi
                 
