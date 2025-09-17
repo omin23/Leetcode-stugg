@@ -17,7 +17,7 @@ class Solution:
             new = x % 10 
             x = x // 10
             if not new and start == -1:continue 
-            print(INT_MAX - new)
+            # print(INT_MAX - new)
             if (INT_MAX - new) // 10 < cur: return 0
             if start != -1: cur = cur*10 + new
             else: cur,start = new,0
