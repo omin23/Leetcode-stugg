@@ -17,7 +17,7 @@ class Solution:
                 res.append(mat[cy][cx])
                 test = (cy-1,cx+1)
             test = (test[0]+1,test[1]-1)
-            print("cor: ",test)
+            # print("cor: ",test)
             # check right then down
             if counter == total: 
                 return res
@@ -27,7 +27,7 @@ class Solution:
             else: 
                 test = (test[0]+1,test[1])
 
-            print("up to down",test)
+            # print("up to down",test)
 
             # go down left
             while (0 <= test[0] and test[0] < h) and (0 <= test[1] and test[1] < w):
