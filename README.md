@@ -73,6 +73,7 @@
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
 ## String
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [1127-last-stone-weight](https://github.com/omin23/Leetcode-stugg/tree/master/1127-last-stone-weight) |
+| [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -280,6 +282,7 @@
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -288,4 +291,12 @@
 |  |
 | ------- |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
+## Data Stream
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
+## Ordered Set
+|  |
+| ------- |
+| [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
 <!---LeetCode Topics End-->
