@@ -72,6 +72,7 @@
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
+| [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
 ## String
@@ -89,6 +90,7 @@
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
+| [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
 | [1894-merge-strings-alternately](https://github.com/omin23/Leetcode-stugg/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -281,6 +283,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
+| [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
 ## Monotonic Stack
