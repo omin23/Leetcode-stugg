@@ -26,6 +26,7 @@
 | [0322-coin-change](https://github.com/omin23/Leetcode-stugg/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/omin23/Leetcode-stugg/tree/master/0792-binary-search) |
@@ -131,6 +132,7 @@
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +174,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
+| [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 ## Counting
 |  |
