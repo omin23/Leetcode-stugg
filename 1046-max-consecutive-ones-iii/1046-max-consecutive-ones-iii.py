@@ -9,7 +9,6 @@ class Solution:
         
         while l1 < len(nums)-1:
             l1 += 1
-            print(l1,curr,maxnum)
             if nums[l1] == 1: curr +=1
             elif useable_1: useable_1,curr = useable_1 - 1 , curr+1
             else:
