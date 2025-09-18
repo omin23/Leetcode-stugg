@@ -13,6 +13,7 @@
 | [0046-permutations](https://github.com/omin23/Leetcode-stugg/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/omin23/Leetcode-stugg/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/omin23/Leetcode-stugg/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/omin23/Leetcode-stugg/tree/master/0078-subsets) |
@@ -52,6 +53,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
+| [0055-jump-game](https://github.com/omin23/Leetcode-stugg/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/omin23/Leetcode-stugg/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0322-coin-change](https://github.com/omin23/Leetcode-stugg/tree/master/0322-coin-change) |
 ## Hash Table
@@ -153,6 +155,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/omin23/Leetcode-stugg/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/omin23/Leetcode-stugg/tree/master/0055-jump-game) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
 ## Math
 |  |
