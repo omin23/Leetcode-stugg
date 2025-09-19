@@ -109,6 +109,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/omin23/Leetcode-stugg/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
@@ -122,6 +123,7 @@
 | [0101-symmetric-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/omin23/Leetcode-stugg/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/omin23/Leetcode-stugg/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
@@ -283,6 +285,7 @@
 ## Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/omin23/Leetcode-stugg/tree/master/0207-course-schedule) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
 ## Design
 |  |
@@ -308,4 +311,8 @@
 |  |
 | ------- |
 | [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/omin23/Leetcode-stugg/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
