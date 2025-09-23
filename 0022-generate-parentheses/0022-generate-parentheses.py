@@ -1,6 +1,6 @@
 class Solution:
     def generateParenthesis(self, n: int) -> List[str]:
-        res = ["("]
+        res = "("
         done = []
         numo = n-1
         numc = n
@@ -9,15 +9,11 @@ class Solution:
                 return
             if numo == 0 and numc == 0:
                 # print(res)
-                done.append("".join(res))
+                done.append(res)
                 return
             
-            res.append("(")
-            back(res,numo-1,numc)
-            res.pop()
-            res.append(")")
-            back(res,numo,numc-1)
-            res.pop()
+            back(res + "(",numo-1,numc)
+            back(res + ")",numo,numc-1)
 
         back(res,numo,numc)
         return done
