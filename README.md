@@ -85,6 +85,7 @@
 | [0008-string-to-integer-atoi](https://github.com/omin23/Leetcode-stugg/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/omin23/Leetcode-stugg/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/omin23/Leetcode-stugg/tree/master/0020-valid-parentheses) |
+| [0043-multiply-strings](https://github.com/omin23/Leetcode-stugg/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/omin23/Leetcode-stugg/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/omin23/Leetcode-stugg/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
@@ -174,10 +175,12 @@
 | [0002-add-two-numbers](https://github.com/omin23/Leetcode-stugg/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/omin23/Leetcode-stugg/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/omin23/Leetcode-stugg/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/omin23/Leetcode-stugg/tree/master/0043-multiply-strings) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omin23/Leetcode-stugg/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/omin23/Leetcode-stugg/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
