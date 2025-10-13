@@ -31,6 +31,7 @@
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/omin23/Leetcode-stugg/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
+| [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/omin23/Leetcode-stugg/tree/master/1127-last-stone-weight) |
@@ -165,6 +166,7 @@
 | [0217-contains-duplicate](https://github.com/omin23/Leetcode-stugg/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
+| [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 ## Greedy
 |  |
@@ -201,6 +203,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/omin23/Leetcode-stugg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
+| [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
 ## Linked List
 |  |
 | ------- |
@@ -306,6 +309,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
+| [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
 ## Queue
 |  |
 | ------- |
