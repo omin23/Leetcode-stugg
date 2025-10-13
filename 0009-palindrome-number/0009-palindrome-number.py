@@ -9,17 +9,16 @@ class Solution:
         # bottom = x - top * (10 ** chopdisthalf)
         # print(top, bottom)
 
-        nulen = math.ceil(math.log10(x)) 
+        nulen = math.ceil(math.log10(x)) // 2
         newnum = 0
-        grind = x
         # print(nulen)
         for i in range(nulen):
-            get = grind % 10
-            grind = grind // 10 
+            get = x % 10
+            x //= 10 
             newnum = newnum * 10 + get
         print(newnum)
         
-        return newnum == x
+        return newnum == x  or x//10 == newnum
 
 
 
