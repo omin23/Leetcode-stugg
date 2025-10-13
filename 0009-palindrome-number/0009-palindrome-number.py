@@ -8,20 +8,16 @@ class Solution:
         # top  = x // (10 ** chopdisthalf) 
         # bottom = x - top * (10 ** chopdisthalf)
         # print(top, bottom)
+
         nulen = math.ceil(math.log10(x)) 
-        newnum = -1
+        newnum = 0
         grind = x
         # print(nulen)
         for i in range(nulen):
             get = grind % 10
             grind = grind // 10 
-            # print(grind,get)
-
-            if newnum == -1:
-                if get != 0: newnum = get
-                else: return False
-            else:    
-                newnum = newnum * 10 + get
+            newnum = newnum * 10 + get
+        print(newnum)
         
         return newnum == x
 
