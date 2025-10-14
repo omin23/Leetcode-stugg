@@ -75,6 +75,7 @@
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/omin23/Leetcode-stugg/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
 | [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
@@ -97,6 +98,7 @@
 | [0344-reverse-string](https://github.com/omin23/Leetcode-stugg/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/omin23/Leetcode-stugg/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
@@ -107,6 +109,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omin23/Leetcode-stugg/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0424-longest-repeating-character-replacement](https://github.com/omin23/Leetcode-stugg/tree/master/0424-longest-repeating-character-replacement) |
+| [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Depth-First Search
@@ -156,6 +159,7 @@
 | [0141-linked-list-cycle](https://github.com/omin23/Leetcode-stugg/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/omin23/Leetcode-stugg/tree/master/0344-reverse-string) |
+| [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/omin23/Leetcode-stugg/tree/master/1894-merge-strings-alternately) |
