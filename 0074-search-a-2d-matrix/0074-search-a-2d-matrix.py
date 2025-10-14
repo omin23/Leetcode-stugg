@@ -6,10 +6,10 @@ class Solution:
         while l <= r:
             m = (r+l)//2
             row , col = m//ncol, m%ncol
-            print(matrix[row][col])
+            # print(matrix[row][col])
             if matrix[row][col] < target: l = m+1
             elif matrix[row][col] > target: r = m-1
             else: return True
-            print(m,l,r)
+            # print(m,l,r)
         return False
 
