@@ -29,6 +29,7 @@
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/omin23/Leetcode-stugg/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/omin23/Leetcode-stugg/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
@@ -211,6 +212,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/omin23/Leetcode-stugg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
+| [0739-daily-temperatures](https://github.com/omin23/Leetcode-stugg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
 ## Linked List
 |  |
@@ -317,6 +319,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
+| [0739-daily-temperatures](https://github.com/omin23/Leetcode-stugg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
 ## Queue
 |  |
