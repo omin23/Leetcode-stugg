@@ -1,6 +1,6 @@
 class Solution:
     def minEatingSpeed(self, piles: List[int], h: int) -> int:
-        def check(i,h,piles): return sum([((j+i-1)//i) for j in piles]) <= h
+        def check(i,h,piles): return sum([ceil(j/i) for j in piles]) <= h
         maxnum = max(piles)
         l,r = 1,maxnum
         worked = maxnum
