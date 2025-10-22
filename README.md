@@ -33,6 +33,7 @@
 | [0792-binary-search](https://github.com/omin23/Leetcode-stugg/tree/master/0792-binary-search) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
+| [0907-koko-eating-bananas](https://github.com/omin23/Leetcode-stugg/tree/master/0907-koko-eating-bananas) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/omin23/Leetcode-stugg/tree/master/1127-last-stone-weight) |
@@ -46,6 +47,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/omin23/Leetcode-stugg/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/omin23/Leetcode-stugg/tree/master/0792-binary-search) |
+| [0907-koko-eating-bananas](https://github.com/omin23/Leetcode-stugg/tree/master/0907-koko-eating-bananas) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
