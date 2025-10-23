@@ -52,6 +52,7 @@
 | [0278-first-bad-version](https://github.com/omin23/Leetcode-stugg/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/omin23/Leetcode-stugg/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/omin23/Leetcode-stugg/tree/master/0907-koko-eating-bananas) |
+| [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
@@ -84,6 +85,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/omin23/Leetcode-stugg/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
+| [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
 | [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
@@ -108,6 +110,7 @@
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
+| [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
 | [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
 | [1894-merge-strings-alternately](https://github.com/omin23/Leetcode-stugg/tree/master/1894-merge-strings-alternately) |
@@ -318,6 +321,7 @@
 | ------- |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
+| [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/omin23/Leetcode-stugg/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2161-stock-price-fluctuation](https://github.com/omin23/Leetcode-stugg/tree/master/2161-stock-price-fluctuation) |
