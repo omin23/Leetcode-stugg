@@ -26,6 +26,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/omin23/Leetcode-stugg/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/omin23/Leetcode-stugg/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/omin23/Leetcode-stugg/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/omin23/Leetcode-stugg/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
@@ -51,6 +52,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/omin23/Leetcode-stugg/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/omin23/Leetcode-stugg/tree/master/0287-find-the-duplicate-number) |
 | [0792-binary-search](https://github.com/omin23/Leetcode-stugg/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/omin23/Leetcode-stugg/tree/master/0907-koko-eating-bananas) |
 | [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
@@ -170,6 +172,7 @@
 | [0125-valid-palindrome](https://github.com/omin23/Leetcode-stugg/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/omin23/Leetcode-stugg/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omin23/Leetcode-stugg/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/omin23/Leetcode-stugg/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/omin23/Leetcode-stugg/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
@@ -309,6 +312,7 @@
 |  |
 | ------- |
 | [0078-subsets](https://github.com/omin23/Leetcode-stugg/tree/master/0078-subsets) |
+| [0287-find-the-duplicate-number](https://github.com/omin23/Leetcode-stugg/tree/master/0287-find-the-duplicate-number) |
 ## Union Find
 |  |
 | ------- |
