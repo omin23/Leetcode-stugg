@@ -12,16 +12,11 @@ class Solution:
             if root.val == subroot.val: 
                 return same(root.left, subroot.left) and same(root.right,subroot.right)
             return False
-        good = [False]
+
         def dfs(root,subroot):
             if not root: return False
-            if good[0]: return True
-            if root.val == subroot.val: good[0] = same(root,subroot)
-
-            dfs(root.right, subroot)
-            dfs(root.left, subroot)
-
-            return good[0]
+            if same(root,subroot): return True
+            return dfs(root.right, subroot) or dfs(root.left, subroot)
 
         return dfs(root,subRoot) 
 
