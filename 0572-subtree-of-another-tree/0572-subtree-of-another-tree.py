@@ -7,11 +7,11 @@
 class Solution:
     def isSubtree(self, root: Optional[TreeNode], subRoot: Optional[TreeNode]) -> bool:
         def same(root,subroot):
-            if (not root and subroot) or (root and not subroot): return False
             if not root and not subroot: return True
-            if root.val == subroot.val: 
-                return same(root.left, subroot.left) and same(root.right,subroot.right)
-            return False
+            if (not root and subroot) or (root and not subroot): return False
+            if root.val != subroot.val: 
+                return False
+            return same(root.left, subroot.left) and same(root.right,subroot.right)
 
         def dfs(root,subroot):
             if not root: return False
