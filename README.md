@@ -142,6 +142,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
@@ -157,6 +158,7 @@
 | [0322-coin-change](https://github.com/omin23/Leetcode-stugg/tree/master/0322-coin-change) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/omin23/Leetcode-stugg/tree/master/2121-find-if-path-exists-in-graph) |
 ## Matrix
 |  |
@@ -267,6 +269,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0774-maximum-depth-of-n-ary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -281,6 +284,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/1544-count-good-nodes-in-binary-tree) |
 ## String Matching
 |  |
 | ------- |
