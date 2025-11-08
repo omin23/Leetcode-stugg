@@ -136,6 +136,7 @@
 | [0112-path-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/omin23/Leetcode-stugg/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
@@ -257,6 +258,7 @@
 | [0110-balanced-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
 | [0774-maximum-depth-of-n-ary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0774-maximum-depth-of-n-ary-tree) |
@@ -269,6 +271,7 @@
 | [0110-balanced-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0226-invert-binary-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0572-subtree-of-another-tree) |
 ## String Matching
@@ -354,4 +357,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/omin23/Leetcode-stugg/tree/master/0207-course-schedule) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
