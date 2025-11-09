@@ -21,11 +21,13 @@ class Solution:
         # return res[k-1]
         res = []
         if not root: return res
-        def dfs(root):
+        def dfs(root,k):
             if not root: return 
-            dfs(root.left)
+            # if len(res) == k: return 
+            dfs(root.left,k)
+            if len(res) == k: return 
             res.append(root.val)
-            dfs(root.right)
-        dfs(root)
+            dfs(root.right,k)
+        dfs(root,k)
         print(res)
-        return res[k-1]
+        return res[-1]
