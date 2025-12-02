@@ -5,6 +5,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/omin23/Leetcode-stugg/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/omin23/Leetcode-stugg/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/omin23/Leetcode-stugg/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/omin23/Leetcode-stugg/tree/master/0035-search-insert-position) |
@@ -102,6 +103,7 @@
 | [0006-zigzag-conversion](https://github.com/omin23/Leetcode-stugg/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/omin23/Leetcode-stugg/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/omin23/Leetcode-stugg/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/omin23/Leetcode-stugg/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/omin23/Leetcode-stugg/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/omin23/Leetcode-stugg/tree/master/0022-generate-parentheses) |
 | [0043-multiply-strings](https://github.com/omin23/Leetcode-stugg/tree/master/0043-multiply-strings) |
@@ -380,4 +382,8 @@
 | [0098-validate-binary-search-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/omin23/Leetcode-stugg/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/omin23/Leetcode-stugg/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/omin23/Leetcode-stugg/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
