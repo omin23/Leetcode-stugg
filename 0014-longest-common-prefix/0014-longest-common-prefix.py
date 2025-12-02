@@ -7,16 +7,11 @@ class Solution:
                 small = i 
         
         # print(small)
-        test = ""
-        for i in range(0,len(small)):
-            test = small[:i+1]
-            # print("new", test)
-            for j in strs:
-                if test != j[:i+1]: 
-                    # print(test)
-                    return test[:i]
-
-        return test
+        for i in strs: 
+            while not i.startswith(small):
+                small = small[:-1]
+                if not small: return ""
+        return small
              
 
         
