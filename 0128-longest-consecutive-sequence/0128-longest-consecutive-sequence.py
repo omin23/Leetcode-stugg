@@ -1,16 +1,21 @@
 from collections import defaultdict
 class Solution:
     def longestConsecutive(self, nums: List[int]) -> int:
-        if len(nums) == 0: return 0
-        setplce = set(nums)
-        longest = 0 
-        for i in setplce: 
-            if i-1 not in setplce:
-                le = 0 
-                j = i
-                while j in setplce:
-                    le += 1
-                    j +=1
-                longest = max(le,longest)
-        return longest
+        check = set(nums)
+        nums = list(check)
+        mlen = 0 
+        llen = len(check)
+        i = 0 
+        while i < llen: 
+            if nums[i]-1 not in check: 
+                tlen = 0
+                new = nums[i]
+                while new in check: 
+                    tlen += 1
+                    new += 1
+                mlen = max(mlen,tlen)
+            i += 1
+        return mlen
+
+
 
