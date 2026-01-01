@@ -2,18 +2,18 @@ from collections import Counter
 class Solution:
     def productExceptSelf(self, nums: List[int]) -> List[int]:
         length = len(nums)
-        oc = Counter(nums)
-        if oc[0] > 1:
-            res = [0 for i in range(length)]
-            return res
-        elif oc[0] == 1: 
-            res = [0 for i in range(length)]
-            num = 1
-            for i in nums: 
-                if i != 0: 
-                    num *= i
-            res[nums.index(0)] = num
-            return res
+        # oc = Counter(nums)
+        # if oc[0] > 1:
+        #     res = [0 for i in range(length)]
+        #     return res
+        # elif oc[0] == 1: 
+        #     res = [0 for i in range(length)]
+        #     num = 1
+        #     for i in nums: 
+        #         if i != 0: 
+        #             num *= i
+        #     res[nums.index(0)] = num
+        #     return res
 
         pre = [1 for i in range(length)]
         for i in range(1,length):
