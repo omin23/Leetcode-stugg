@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
+| [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/omin23/Leetcode-stugg/tree/master/0739-daily-temperatures) |
@@ -63,6 +64,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
 |  |
@@ -89,6 +91,7 @@
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
 | [0424-longest-repeating-character-replacement](https://github.com/omin23/Leetcode-stugg/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
 | [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
