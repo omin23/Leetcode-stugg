@@ -7,7 +7,7 @@ class Solution:
             total += i
             diff = total - k
 
-            if diff in check.keys(): res += check[diff]            
+            res += check.get(diff,0)            
             check[total] = check.get(total,0) + 1
 
         return res
