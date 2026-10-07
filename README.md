@@ -93,6 +93,7 @@
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/omin23/Leetcode-stugg/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/omin23/Leetcode-stugg/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
@@ -120,6 +121,7 @@
 | [0242-valid-anagram](https://github.com/omin23/Leetcode-stugg/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/omin23/Leetcode-stugg/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/omin23/Leetcode-stugg/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/omin23/Leetcode-stugg/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
@@ -239,6 +241,7 @@
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/omin23/Leetcode-stugg/tree/master/0387-first-unique-character-in-a-string) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
 ## Stack
 |  |
@@ -376,6 +379,7 @@
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/omin23/Leetcode-stugg/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 ## Data Stream
 |  |
