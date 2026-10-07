@@ -42,6 +42,7 @@
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 | [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
 | [0907-koko-eating-bananas](https://github.com/omin23/Leetcode-stugg/tree/master/0907-koko-eating-bananas) |
+| [0929-unique-email-addresses](https://github.com/omin23/Leetcode-stugg/tree/master/0929-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/omin23/Leetcode-stugg/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 | [1127-last-stone-weight](https://github.com/omin23/Leetcode-stugg/tree/master/1127-last-stone-weight) |
@@ -98,6 +99,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/omin23/Leetcode-stugg/tree/master/0929-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
 | [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
@@ -126,6 +128,7 @@
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0680-valid-palindrome-ii) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
+| [0929-unique-email-addresses](https://github.com/omin23/Leetcode-stugg/tree/master/0929-unique-email-addresses) |
 | [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
 | [1297-maximum-number-of-balloons](https://github.com/omin23/Leetcode-stugg/tree/master/1297-maximum-number-of-balloons) |
 | [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
