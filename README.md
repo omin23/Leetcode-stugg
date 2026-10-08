@@ -17,6 +17,7 @@
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/omin23/Leetcode-stugg/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
+| [0059-spiral-matrix-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/omin23/Leetcode-stugg/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/omin23/Leetcode-stugg/tree/master/0078-subsets) |
@@ -183,6 +184,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/omin23/Leetcode-stugg/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
@@ -237,6 +239,7 @@
 | ------- |
 | [0043-multiply-strings](https://github.com/omin23/Leetcode-stugg/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0059-spiral-matrix-ii) |
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 ## Counting
