@@ -33,6 +33,7 @@
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/omin23/Leetcode-stugg/tree/master/0287-find-the-duplicate-number) |
 | [0289-game-of-life](https://github.com/omin23/Leetcode-stugg/tree/master/0289-game-of-life) |
+| [0303-range-sum-query-immutable](https://github.com/omin23/Leetcode-stugg/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/omin23/Leetcode-stugg/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
+| [0303-range-sum-query-immutable](https://github.com/omin23/Leetcode-stugg/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -377,6 +379,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
+| [0303-range-sum-query-immutable](https://github.com/omin23/Leetcode-stugg/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
 | [1512-design-underground-system](https://github.com/omin23/Leetcode-stugg/tree/master/1512-design-underground-system) |
