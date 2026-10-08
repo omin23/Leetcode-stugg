@@ -18,6 +18,7 @@
 | [0055-jump-game](https://github.com/omin23/Leetcode-stugg/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/omin23/Leetcode-stugg/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/omin23/Leetcode-stugg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/omin23/Leetcode-stugg/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/omin23/Leetcode-stugg/tree/master/0078-subsets) |
@@ -88,6 +89,7 @@
 | [0013-roman-to-integer](https://github.com/omin23/Leetcode-stugg/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/omin23/Leetcode-stugg/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/omin23/Leetcode-stugg/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/omin23/Leetcode-stugg/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/omin23/Leetcode-stugg/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/omin23/Leetcode-stugg/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/omin23/Leetcode-stugg/tree/master/0141-linked-list-cycle) |
@@ -185,6 +187,7 @@
 | [0036-valid-sudoku](https://github.com/omin23/Leetcode-stugg/tree/master/0036-valid-sudoku) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/omin23/Leetcode-stugg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
