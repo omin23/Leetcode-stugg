@@ -38,6 +38,7 @@
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
+| [0525-contiguous-array](https://github.com/omin23/Leetcode-stugg/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/omin23/Leetcode-stugg/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
@@ -73,6 +74,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/omin23/Leetcode-stugg/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/omin23/Leetcode-stugg/tree/master/0303-range-sum-query-immutable) |
+| [0525-contiguous-array](https://github.com/omin23/Leetcode-stugg/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/omin23/Leetcode-stugg/tree/master/1046-max-consecutive-ones-iii) |
 ## Dynamic Programming
@@ -102,6 +104,7 @@
 | [0383-ransom-note](https://github.com/omin23/Leetcode-stugg/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/omin23/Leetcode-stugg/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/omin23/Leetcode-stugg/tree/master/0424-longest-repeating-character-replacement) |
+| [0525-contiguous-array](https://github.com/omin23/Leetcode-stugg/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omin23/Leetcode-stugg/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/omin23/Leetcode-stugg/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/omin23/Leetcode-stugg/tree/master/0782-jewels-and-stones) |
