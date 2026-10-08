@@ -32,6 +32,7 @@
 | [0217-contains-duplicate](https://github.com/omin23/Leetcode-stugg/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/omin23/Leetcode-stugg/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/omin23/Leetcode-stugg/tree/master/0287-find-the-duplicate-number) |
+| [0289-game-of-life](https://github.com/omin23/Leetcode-stugg/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/omin23/Leetcode-stugg/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/omin23/Leetcode-stugg/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
@@ -189,6 +190,7 @@
 | [0059-spiral-matrix-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/omin23/Leetcode-stugg/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0074-search-a-2d-matrix) |
+| [0289-game-of-life](https://github.com/omin23/Leetcode-stugg/tree/master/0289-game-of-life) |
 | [0463-island-perimeter](https://github.com/omin23/Leetcode-stugg/tree/master/0463-island-perimeter) |
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
 ## Two Pointers
@@ -243,6 +245,7 @@
 | [0043-multiply-strings](https://github.com/omin23/Leetcode-stugg/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/omin23/Leetcode-stugg/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/omin23/Leetcode-stugg/tree/master/0059-spiral-matrix-ii) |
+| [0289-game-of-life](https://github.com/omin23/Leetcode-stugg/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/omin23/Leetcode-stugg/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 ## Counting
