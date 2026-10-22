@@ -271,6 +271,7 @@
 | [0042-trapping-rain-water](https://github.com/omin23/Leetcode-stugg/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/omin23/Leetcode-stugg/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/omin23/Leetcode-stugg/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/omin23/Leetcode-stugg/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/omin23/Leetcode-stugg/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/omin23/Leetcode-stugg/tree/master/0883-car-fleet) |
@@ -386,6 +387,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/omin23/Leetcode-stugg/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/omin23/Leetcode-stugg/tree/master/0232-implement-queue-using-stacks) |
 | [0303-range-sum-query-immutable](https://github.com/omin23/Leetcode-stugg/tree/master/0303-range-sum-query-immutable) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 | [1023-time-based-key-value-store](https://github.com/omin23/Leetcode-stugg/tree/master/1023-time-based-key-value-store) |
@@ -401,6 +403,7 @@
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/omin23/Leetcode-stugg/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/omin23/Leetcode-stugg/tree/master/0387-first-unique-character-in-a-string) |
 | [0860-design-circular-queue](https://github.com/omin23/Leetcode-stugg/tree/master/0860-design-circular-queue) |
 ## Data Stream
