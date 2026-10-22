@@ -448,4 +448,5 @@
 | [0511-game-play-analysis-i](https://github.com/omin23/Leetcode-stugg/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/omin23/Leetcode-stugg/tree/master/0577-employee-bonus) |
 | [0610-triangle-judgement](https://github.com/omin23/Leetcode-stugg/tree/master/0610-triangle-judgement) |
+| [0619-biggest-single-number](https://github.com/omin23/Leetcode-stugg/tree/master/0619-biggest-single-number) |
 <!---LeetCode Topics End-->
